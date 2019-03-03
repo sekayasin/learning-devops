@@ -1,1 +1,1 @@
-# learning-devops-auto-deploy-script
+# learning-devops
